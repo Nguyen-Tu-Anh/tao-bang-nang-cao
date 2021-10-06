@@ -1,0 +1,18 @@
+table {
+    height: 400px;
+    width: 1000px;
+}
+tr {
+    text-align: center;
+}
+#dong1 {
+    background-color: red;
+    color: white;
+}
+#dong2 {
+    background-color: red;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+}
